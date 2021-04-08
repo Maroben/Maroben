@@ -2,6 +2,8 @@
 
 I am Dijan, a Full Stack Software Engineer, who is interested in User Centered Web Application Design. 
 
+TypeScript, all the way!
+
 ### 🔭 Expertise
 
 - Node
@@ -18,7 +20,6 @@ I am Dijan, a Full Stack Software Engineer, who is interested in User Centered W
 ### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/dijanhelbling/)
-- [Homepage](https://dijan.helbling.io)
 - [Github](https://github.com/Maroben)
 
 <!--
