@@ -14,8 +14,8 @@ TypeScript, all the way!
 
 ### 🌱 Projects
 
-- BaaS - Backend as a Service
-- Course Management Platform
+- Finance tracking and budgeting app
+- Booking platform
 
 ### 📫 How to reach me
 
