@@ -1,21 +1,22 @@
 ### Hi there 👋
 
-I am Dijan, a Full Stack Software Engineer, who is interested in User Centered Web Application Design. 
+I am Dijan, a Full Stack Software Engineer, who is interested in user-centered web application design.
 
 TypeScript, all the way!
 
 ### 🔭 Expertise
 
 - Node
-- Typescript
-- React
-- Express
+- JavaScript/TypeScript
+- React/Next
+- Vue/Nuxt
+- Express/Nest
 - Google Cloud CI/CD
 
 ### 🌱 Projects
 
-- Finance tracking and budgeting app
-- Booking platform
+- Household Application
+- Booking Platform
 
 ### 📫 How to reach me
 
