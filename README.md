@@ -10,13 +10,14 @@ TypeScript, all the way!
 - JavaScript/TypeScript
 - React/Next
 - Vue/Nuxt
+- Angular
 - Express/Nest
 - Google Cloud CI/CD
 
 ### 🌱 Projects
 
-- Household Application
-- Booking Platform
+- Product Development Platform
+- Organization and Communication Platform
 
 ### 📫 How to reach me
 
